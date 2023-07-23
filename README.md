@@ -9,7 +9,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div class="collapsible" onclick="toggleTable('intro')">
     <span class="arrow" style="cursor:pointer">&#9658; PS01: Introduction</span>
 </div>
-<div id="intro" style="display:none">
+<div id="intro" style="display:none; transition: height 0.3s ease; overflow: hidden;" >
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
         <tr> <td>1</td> <td><a href="https://open.kattis.com/problems/different" target="_blank">A Different Problem</a></td> <td>simple I/O</td> <td>easy</td></tr>
@@ -168,18 +168,8 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 </div>
 
 
-<style>
-    table {
-        transition: height 0.3s ease;
-        overflow: hidden; 
-    }
-    .arrow::after {
-        content: ' ▼';
-    }
-    .arrow.collapsed::after {
-        content: ' ►';
-    }
-</style>
+
+
 
 <script>
     function toggleTable(table){
