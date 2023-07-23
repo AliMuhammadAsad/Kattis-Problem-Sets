@@ -10,7 +10,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 <div id="container">
 <div class="collapsible" onclick="toggleTable('intro')">
-    <span class="arrow" style="cursor:pointer; font-size:24px;">&#9658; PS01: Introduction</span>
+    <span class="arrow" style="cursor:pointer; font-size:18px;">&#9658; PS01: Introduction</span>
 </div>
 <div id="intro" style="display:none;" >
     <table>
@@ -32,7 +32,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('emds_lib')">
-    <span class="arrow" style="cursor:pointer" font-size="20px">&#9658; PS02: Elementary Data Structures and Libraries</span>
+    <span class="arrow" style="cursor:pointer; font-size:18px;">&#9658; PS02: Elementary Data Structures and Libraries</span>
 </div>
 <div id="emds_lib" style="display:none">
     <table>
@@ -48,7 +48,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('ds')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS03: Data Structures</span>
+    <span class="arrow" style="cursor:pointer; font-size:20px;">&#9658; PS03: Data Structures</span>
 </div>
 <div id="ds" style="display:none">
     <table>
