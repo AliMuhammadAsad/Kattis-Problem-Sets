@@ -2,14 +2,15 @@
 
 GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). View source [here]().
 
-Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
+Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>. <span>Total Problems: <span id="total">0</span></span>
 
 ## Problem Sets
 
+<div id="container">
 <div class="collapsible" onclick="toggleTable('intro')">
     <span class="arrow" style="cursor:pointer">&#9658; PS01: Introduction</span>
 </div>
-<div id="intro" style="display:none; transition: height 0.3s ease; overflow: hidden;" >
+<div id="intro" style="display:none;" >
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
         <tr> <td>1</td> <td><a href="https://open.kattis.com/problems/different" target="_blank">A Different Problem</a></td> <td>simple I/O</td> <td>easy</td></tr>
@@ -166,7 +167,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
     </table>
 </div>
-
+</div>
 
 
 
@@ -176,4 +177,14 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
         var cont = document.getElementById(table);
         cont.style.display = cont.style.display === 'none' ? 'block' : 'none';  
     }
+    function pCount(){
+        var tables = document.querySelectorAll('#container');
+        var ps = 0;
+        tables.forEach(function(table){
+            ps += table.rows.length;
+        });
+        
+        document.getElementById('total').textContent = ps;
+    }
+    pCount();
 </script>
