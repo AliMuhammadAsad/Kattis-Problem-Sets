@@ -172,6 +172,6 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <script>
     function toggleTable(table){
         var cont = document.getElementById(table);
-        cont.style.display = cont.style.display === 'block' ? 'block' : 'none';  
+        cont.style.display = cont.style.display === 'block' ? 'none' : 'block';  
     }
 </script>
