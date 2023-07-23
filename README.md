@@ -10,7 +10,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 <div id="container">
 <div class="collapsible" onclick="toggleTable('intro')">
-    <span class="arrow" style="cursor:pointer; font-size:14px;">&#9658; PS01: Introduction</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS01: Introduction</span>
 </div>
 <div id="intro" style="display:none;" >
     <table>
@@ -48,7 +48,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('ds')">
-    <span class="arrow" style="cursor:pointer; font-size:16px;">&#9658; PS03: Data Structures</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS03: Data Structures</span>
 </div>
 <div id="ds" style="display:none">
     <table>
@@ -66,7 +66,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('ssdc')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS04: Searching, Sorting, Divide and Conquer</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS04: Searching, Sorting, Divide and Conquer</span>
 </div>
 <div id="ssdc" style="display:none">
     <table>
@@ -86,7 +86,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('ga')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS05: Greedy Algorithms</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS05: Greedy Algorithms</span>
 </div>
 <div id="ga" style="display:none">
     <table>
@@ -96,7 +96,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('dp')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS06: Dynamic Programming</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS06: Dynamic Programming</span>
 </div>
 <div id="dp" style="display:none">
     <table>
@@ -106,7 +106,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('graphintro')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS07: Graphs, Graph Traversal, Graph Algorithms, BFS and DFS</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS07: Graphs, Graph Traversal, Graph Algorithms, BFS and DFS</span>
 </div>
 <div id="graphintro" style="display:none">
     <table>
@@ -116,7 +116,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('graphtree')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS08: Intermediate Graph Algorithms, Trees</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS08: Intermediate Graph Algorithms, Trees</span>
 </div>
 <div id="graphtree" style="display:none">
     <table>
@@ -127,7 +127,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('spa')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS09: Shortest Path Algorithms</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS09: Shortest Path Algorithms</span>
 </div>
 <div id="spa" style="display:none">
     <table>
@@ -137,7 +137,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('nfa')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS10: Network Flow Algorithms</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS10: Network Flow Algorithms</span>
 </div>
 <div id="nfa" style="display:none">
     <table>
@@ -147,7 +147,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('cgga')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS11: Computational Geomtry, Geometric Algorithms</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS11: Computational Geomtry, Geometric Algorithms</span>
 </div>
 <div id="cgga" style="display:none">
     <table>
@@ -158,7 +158,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('strings')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS12: Strings, String Matching</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS12: Strings, String Matching</span>
 </div>
 <div id="strings" style="display:none">
     <table>
@@ -172,7 +172,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('mnt')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS13: Mathematics and Number Theory</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS13: Mathematics and Number Theory</span>
 </div>
 <div id="mnt" style="display:none">
     <table>
@@ -185,7 +185,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('combinatorics')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS14: Combinatorics</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS14: Combinatorics</span>
 </div>
 <div id="combinatorics" style="display:none">
     <table>
@@ -196,7 +196,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 
 <div class="collapsible" onclick="toggleTable('dekhte')">
-    <span class="arrow" style="cursor:pointer">&#9658; PS15: Let's See About This?</span>
+    <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS15: Let's See About This?</span>
 </div>
 <div id="dekhte" style="display:none">
     <table>
