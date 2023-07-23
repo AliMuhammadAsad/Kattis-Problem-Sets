@@ -2,6 +2,8 @@
 
 GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). View source [here]().
 
+<span> Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>. </span>
+
 <span>Problem Count: <span id="total">0</span></span>
 
 ## Problem Sets 
@@ -204,10 +206,6 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 </div>
 
 <!-- <tr><td></td> <td></td> <td></td> <td></td></tr> -->
-
-<footer>
-<span> Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>.  </span>
-</footer>
 
 
 <script>
