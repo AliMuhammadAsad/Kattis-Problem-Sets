@@ -37,7 +37,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="emds_lib" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/secretmessage" target="_blank"></a>Secret Message</td> <td>nested lists/matrices</td> <td>easy-medium</td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/secretmessage" target="_blank">Secret Message</a></td> <td>nested lists/matrices</td> <td>easy-medium</td></tr>
         <tr><td>2</td> <td><a href="https://open.kattis.com/problems/codetosavelives" target="_blank">Code to Save Lives</a></td> <td>elementary ds, strings, vects in c++</td> <td>easy-medium</td></tr>
         <tr><td>3</td> <td><a href="https://open.kattis.com/problems/goldbach2" target="_blank">Goldbach's Conjecture</a></td> <td>vects in c++, lists/tuples</td> <td>easy-medium</td></tr>
         <tr><td>4</td> <td><a href="https://open.kattis.com/problems/goodmorning" target="_blank">Good Morning</a></td> <td>-</td> <td>medium</td></tr>
@@ -71,15 +71,15 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="ssdc" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/sortofsorting"target="_blank">Sort of sorting</a></td> <td>-</td> <td>easy</td></tr>
-        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/cetiri"target="_blank">Cetiri</a></td> <td>-</td> <td>easy</td></tr>
-        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/busnumbers"target="_blank">Bus Numbers</a></td> <td>-</td> <td>easy-medium</td></tr>
-        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/touchscreenkeyboard"target="_blank">Touchscreen Keyboard</a></td> <td>-</td> <td>easy-medium</td></tr>
-        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/peasoup"target="_blank">Peasoup and Pancakes</a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/basicprogramming2"target="_blank">Basic Programming 2</a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/batmanacci"target="_blank">Batmanacci</a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/walls"target="_blank">Lifting Walls</a></td> <td>-</td> <td>medium-hard</td></tr>
-        <tr><td>9</td> <td><a href="https://open.kattis.com/problems/fruitbaskets"target="_blank">Fruit Baskets</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/sortofsorting" target="_blank">Sort of sorting</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/cetiri" target="_blank">Cetiri</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/busnumbers" target="_blank">Bus Numbers</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/touchscreenkeyboard" target="_blank">Touchscreen Keyboard</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/peasoup" target="_blank">Peasoup and Pancakes</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/basicprogramming2" target="_blank">Basic Programming 2</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/batmanacci" target="_blank">Batmanacci</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/walls" target="_blank">Lifting Walls</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>9</td> <td><a href="https://open.kattis.com/problems/fruitbaskets" target="_blank">Fruit Baskets</a></td> <td>-</td> <td>medium-hard</td></tr>
         <tr><td>10</td> <td><a href="https://open.kattis.com/problems/fractal2" target="_blank">Fractal</a></td> <td>-</td> <td>hard-hard</td></tr>
     </table>
 </div>
