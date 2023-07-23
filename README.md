@@ -1,14 +1,14 @@
 # Kattis-Problem-Sets <img src="https://ia804606.us.archive.org/23/items/medium_202201/medium.png" width="36px"/>
 
-GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). View source [here](https://github.com/AliMuhammadAsad/Kattis-Problem-Sets).
+GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). View source [here]().
 
 Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 
 ## Problem Sets
 
 <div class="collapsible" onclick="toggleTable('intro')">
-    <span class="arrow">&#9658;</span>
-    <p>PS01: Introduction</p>
+    <span class="arrow">&#9658; PS01: Introduction</span>
+    <!-- <span>PS01: Introduction</span> -->
 </div>
 <div class="content" id="intro">
     <table>
