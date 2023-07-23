@@ -28,6 +28,16 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 </div>
 
 
+<div class="collapsible" onclick="toggleTable('emds_lib')">
+    <span class="arrow">&#9658; PS02: Elementary Data Structures and Libraries</span>
+</div>
+<div id="emds_lib">
+    <table>
+        <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+    </table>
+</div>
+
+
 <div class="collapsible" onclick="toggleTable('ds')">
     <span class="arrow">&#9658; PS03: Data Structures</span>
 </div>
@@ -162,6 +172,6 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <script>
     function toggleTable(table){
         var cont = document.getElementById(table);
-        cont.style.display = cont.style.display === 'none' ? 'block' : 'none';  
+        cont.style.display = cont.style.display === 'block' ? 'block' : 'none';  
     }
 </script>
