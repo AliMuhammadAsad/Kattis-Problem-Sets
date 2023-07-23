@@ -121,7 +121,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="graphtree" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/heap" target="_blank">Binary Heap</a></td> <td>implement max binary heap</td> <td>easy-medium</td></tr>
     </table>
 </div>
 
@@ -152,7 +152,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="cgga" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/polygonarea" target="_blank">Polygon Area</a></td> <td>shoelace + orientation</td> <td>medium</td></tr>
     </table>
 </div>
 
@@ -163,10 +163,10 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="strings" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
-        <tr><td>2</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
-        <tr><td>3</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
-        <tr><td>4</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/haypoints" target="_blank">Hay Points</a></td> <td>simple string</td> <td>easy</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/spehrling" target="_blank">Sperhling</a></td> <td>string manipulation + maths</td> <td>easy-medium</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/toilet" target="_blank">Toilet Seat</a></td> <td>string+permutation</td> <td>easy-medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/esej" target="_blank">Esej</a></td> <td>ints to random chars/strings</td> <td>medium</td></tr>
     </table>
 </div>
 
@@ -177,9 +177,9 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="mnt" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
-        <tr><td>2</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
-        <tr><td>3</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/ninetynine" target="_blank">Ninety-Nine</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/goldbach2" target="_blank">Goldbach's Conjecture</a></td> <td>simple maths + elementary data structures</td> <td>easy-medium</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/2naire" target="_blank">2naire</a></td> <td>-</td> <td>medium</td></tr>
     </table>
 </div>
 
@@ -190,7 +190,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="combinatorics" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/fruitbaskets" target="_blank">Fruit Baskets</a></td> <td>combinations</td> <td>medium</td></tr>
     </table>
 </div>
 
@@ -221,7 +221,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
             ps += table.rows.length;
         });
         
-        document.getElementById('total').textContent = ps;
+        document.getElementById('total').textContent = ps - 15;
     }
     pCount();
 </script>
