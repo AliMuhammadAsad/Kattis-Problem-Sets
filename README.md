@@ -2,9 +2,11 @@
 
 GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). View source [here]().
 
-Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>. <span>Problem Count: <span id="total">0</span></span>
+Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>. 
 
-## Problem Sets
+<span>Problem Count: <span id="total">0</span></span>
+
+## Problem Sets 
 
 <div id="container">
 <div class="collapsible" onclick="toggleTable('intro')">
@@ -35,6 +37,12 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="emds_lib" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/secretmessage" target="_blank"></a>Secret Message</td> <td>nested lists/matrices</td> <td>easy-medium</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/codetosavelives" target="_blank">Code to Save Lives</a></td> <td>elementary ds, strings, vects in c++</td> <td>easy-medium</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/goldbach2" target="_blank">Goldbach's Conjecture</a></td> <td>vects in c++, lists/tuples</td> <td>easy-medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/goodmorning" target="_blank">Good Morning</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/deduplicatingfiles">Deduplicating Files</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/guilds" target="_blank">Guilds</a></td> <td>-</td> <td>medium-hard</td></tr>
     </table>
 </div>
 
@@ -45,6 +53,14 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="ds" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/addingwords" target="_blank">Adding Words</a></td> <td>dicts in python</td> <td>medium</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/virtualfriends" target="_blank">Virtual Friends</a></td> <td>dicts/sets</td> <td>medium</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/kastenlauf" target="_blank">Kastenlauf</a></td> <td>vectors</td> <td>medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/floppy" target="_blank">Floppy Music</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/honey" target="_blank">Honeycomb Walk</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/subseqhard" target="_blank">Counting Subsequences(hard)</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/cuckoo" target="_blank">Cuckoo Hashing</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/froshweek" target="_blank">Frosh Week</a></td> <td>Bonus?</td> <td>hard</td></tr>
     </table>
 </div>
 
@@ -55,6 +71,16 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="ssdc" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/sortofsorting"target="_blank">Sort of sorting</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/cetiri"target="_blank">Cetiri</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/busnumbers"target="_blank">Bus Numbers</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/touchscreenkeyboard"target="_blank">Touchscreen Keyboard</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/peasoup"target="_blank">Peasoup and Pancakes</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/basicprogramming2"target="_blank">Basic Programming 2</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/batmanacci"target="_blank">Batmanacci</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/walls"target="_blank">Lifting Walls</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>9</td> <td><a href="https://open.kattis.com/problems/fruitbaskets"target="_blank">Fruit Baskets</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>10</td> <td><a href="https://open.kattis.com/problems/fractal2" target="_blank">Fractal</a></td> <td>-</td> <td>hard-hard</td></tr>
     </table>
 </div>
 
@@ -95,6 +121,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="graphtree" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
     </table>
 </div>
 
@@ -125,6 +152,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="cgga" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
     </table>
 </div>
 
@@ -135,6 +163,10 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="strings" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>2</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>3</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>4</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
     </table>
 </div>
 
@@ -145,6 +177,9 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="mnt" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>2</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
+        <tr><td>3</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
     </table>
 </div>
 
@@ -155,6 +190,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 <div id="combinatorics" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr>
     </table>
 </div>
 
@@ -169,6 +205,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
 </div>
 </div>
 
+<!-- <tr><td></td> <td></td> <td></td> <td></td></tr> -->
 
 
 
