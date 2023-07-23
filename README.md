@@ -2,7 +2,7 @@
 
 GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). View source [here]().
 
-Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>. <span>Total Problems: <span id="total">0</span></span>
+Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>. <span>Problem Count: <span id="total">0</span></span>
 
 ## Problem Sets
 
@@ -178,7 +178,7 @@ Problem sets created from <a href="https://open.kattis.com/">Kattis Archives</a>
         cont.style.display = cont.style.display === 'none' ? 'block' : 'none';  
     }
     function pCount(){
-        var tables = document.querySelectorAll('#container');
+        var tables = document.querySelectorAll('#container table');
         var ps = 0;
         tables.forEach(function(table){
             ps += table.rows.length;
