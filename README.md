@@ -10,7 +10,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 <div id="container">
 <div class="collapsible" onclick="toggleTable('intro')">
-    <h3 class="arrow" style="cursor:pointer">&#9658; PS01: Introduction</h3>
+    <h5 class="arrow" style="cursor:pointer">&#9658; PS01: Introduction</h5>
 </div>
 <div id="intro" style="display:none;" >
     <table>
