@@ -91,6 +91,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 <div id="ga" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/minimumscalar">Minimum Scalar Product</a></td> <td>simple dot product</td> <td>easy</td></tr>
     </table>
 </div>
 
@@ -205,7 +206,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 </div>
 </div>
 
-<!-- <tr><td></td> <td></td> <td></td> <td></td></tr> -->
+<!-- <tr><td></td> <td><a href=""></a></td> <td></td> <td></td></tr> -->
 
 
 <script>
