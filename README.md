@@ -94,12 +94,12 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
         <tr><td>1</td> <td><a href="https://open.kattis.com/problems/minimumscalar" target="_blank">Minimum Scalar Product</a></td> <td>simple dot product</td> <td>easy</td></tr>
         <tr><td>2</td> <td><a href="https://open.kattis.com/problems/plantingtrees" toggle="_blank">Planting Trees</a></td> <td>-</td> <td>easy</td></tr>
-        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/pivot" toggle="_blank"></a></td> <td>-</td> <td>easy-medium</td></tr>
-        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/engineeringenglish" toggle="_blank"></a></td> <td>-</td> <td>easy-medium</td></tr>
-        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/pikemaneasy" toggle="_blank"></a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/bank" toggle="_blank"></a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/grass" toggle="_blank"></a></td> <td>-</td> <td>medium-hard</td></tr>
-        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/numbersetseasy" toggle="_blank"></a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/pivot" toggle="_blank">Pivot</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/engineeringenglish" toggle="_blank">Engineering English</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/pikemaneasy" toggle="_blank">A Vicious Pikeman (Easy)</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/bank" toggle="_blank">Bank Queue</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/grass" toggle="_blank">Watering Grass</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/numbersetseasy" toggle="_blank">Number Sets (Easy)</a></td> <td>-</td> <td>medium-hard</td></tr>
     </table>
 </div>
 
