@@ -41,7 +41,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
         <tr><td>2</td> <td><a href="https://open.kattis.com/problems/codetosavelives" target="_blank">Code to Save Lives</a></td> <td>elementary ds, strings, vects in c++</td> <td>easy-medium</td></tr>
         <tr><td>3</td> <td><a href="https://open.kattis.com/problems/goldbach2" target="_blank">Goldbach's Conjecture</a></td> <td>vects in c++, lists/tuples</td> <td>easy-medium</td></tr>
         <tr><td>4</td> <td><a href="https://open.kattis.com/problems/goodmorning" target="_blank">Good Morning</a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/deduplicatingfiles">Deduplicating Files</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/deduplicatingfiles" target="_blank">Deduplicating Files</a></td> <td>-</td> <td>medium</td></tr>
         <tr><td>6</td> <td><a href="https://open.kattis.com/problems/guilds" target="_blank">Guilds</a></td> <td>-</td> <td>medium-hard</td></tr>
     </table>
 </div>
@@ -93,13 +93,14 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
         <tr><td>1</td> <td><a href="https://open.kattis.com/problems/minimumscalar" target="_blank">Minimum Scalar Product</a></td> <td>simple dot product</td> <td>easy</td></tr>
-        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/plantingtrees" toggle="_blank">Planting Trees</a></td> <td>-</td> <td>easy</td></tr>
-        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/pivot" toggle="_blank">Pivot</a></td> <td>-</td> <td>easy-medium</td></tr>
-        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/engineeringenglish" toggle="_blank">Engineering English</a></td> <td>-</td> <td>easy-medium</td></tr>
-        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/pikemaneasy" toggle="_blank">A Vicious Pikeman (Easy)</a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/bank" toggle="_blank">Bank Queue</a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/grass" toggle="_blank">Watering Grass</a></td> <td>-</td> <td>medium-hard</td></tr>
-        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/numbersetseasy" toggle="_blank">Number Sets (Easy)</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/plantingtrees" target="_blank">Planting Trees</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/driversdilemma" target="_blank">Driver's Dilemma</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/pivot" target="_blank">Pivot</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/engineeringenglish" target="_blank">Engineering English</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/pikemaneasy" target="_blank">A Vicious Pikeman (Easy)</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/bank" target="_blank">Bank Queue</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/grass" target="_blank">Watering Grass</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>9</td> <td><a href="https://open.kattis.com/problems/numbersetseasy" target="_blank">Number Sets (Easy)</a></td> <td>-</td> <td>medium-hard</td></tr>
     </table>
 </div>
 
@@ -214,7 +215,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 </div>
 </div>
 
-<!-- <tr><td></td> <td><a href="" toggle="_blank"></a></td> <td></td> <td></td></tr> -->
+<!-- <tr><td></td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr> -->
 
 
 <script>
