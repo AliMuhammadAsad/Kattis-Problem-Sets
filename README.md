@@ -111,6 +111,15 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 <div id="dp" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr>1<td></td> <td><a href="https://open.kattis.com/problems/sevenwonders" target="_blank">Seven Wonders</a></td> <td>-</td> <td>easy</td></tr>
+        <tr>2<td></td> <td><a href="https://open.kattis.com/problems/ants" target="_blank">Ants</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr>3<td></td> <td><a href="https://open.kattis.com/problems/damsindistress" target="_blank">Dams in Distress</a></td> <td>-</td> <td>medium</td></tr>
+        <tr>4<td></td> <td><a href="https://open.kattis.com/problems/colorland" target="_blank">Colorland</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr>5<td></td> <td><a href="https://open.kattis.com/problems/chemistsvows" target="_blank">Chemist's Vows</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr>6<td></td> <td><a href="https://open.kattis.com/problems/honey" target="_blank">Honeycomb Walk</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr>7<td></td> <td><a href="https://open.kattis.com/problems/spiderman" target="_blank">Spiderman's Workout</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr>8<td></td> <td><a href="https://open.kattis.com/problems/digitsum" target="_blank">Digit Sum</a></td> <td>optimization with DP hard due to low runtime</td> <td>hard</td></tr>
+        <tr>9<td></td> <td><a href="https://open.kattis.com/problems/threedigits" target="_blank">Three Digits</a></td> <td>optimizing factorial and slicing + operations</td> <td>hard</td></tr>
     </table>
 </div>
 
