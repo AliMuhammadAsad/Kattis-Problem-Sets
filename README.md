@@ -8,6 +8,15 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 ## Problem Sets 
 
+<style>
+    table {
+        margin: auto;
+    }
+    th, td {
+        text-align: center;
+    }
+</style>
+
 <div id="container">
 <div class="collapsible" onclick="toggleTable('intro')">
     <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS01: Introduction</span>
@@ -109,7 +118,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
     <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS06: Dynamic Programming</span>
 </div>
 <div id="dp" style="display:none">
-    <table style="align-items: center">
+    <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
         <tr><td>1</td> <td><a href="https://open.kattis.com/problems/sevenwonders" target="_blank">Seven Wonders</a></td> <td>-</td> <td>easy</td></tr>
         <tr><td>2</td> <td><a href="https://open.kattis.com/problems/ants" target="_blank">Ants</a></td> <td>-</td> <td>easy-medium</td></tr>
