@@ -8,14 +8,14 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 
 ## Problem Sets 
 
-<style>
+<!-- <style>
     table {
         margin: auto;
     }
     th, td {
         text-align: center;
     }
-</style>
+</style> -->
 
 <div id="container">
 <div class="collapsible" onclick="toggleTable('intro')">
