@@ -191,16 +191,16 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 <div id="strings" style="display:none">
     <table>
         <tr><th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr>1<td></td> <td><a href="https://open.kattis.com/problems/haypoints" target="_blank">Hay Points</a></td> <td>-</td> <td>easy</td></tr>
-        <tr>2<td></td> <td><a href="https://open.kattis.com/problems/spehrling" target="_blank">Sperhling</a></td> <td>simple string manipulation + maths</td> <td>easy-medium</td></tr>
-        <tr>3<td></td> <td><a href="https://open.kattis.com/problems/toilet" target="_blank">Toilet Seat</a></td> <td>string + permuatations</td> <td>easy-medium</td></tr>
-        <tr>4<td></td> <td><a href="https://open.kattis.com/problems/bing" target="_blank">Bing It On</a></td> <td>strings, suffix arrays/tries/strings</td> <td>medium</td></tr>
-        <tr>5<td></td> <td><a href="https://open.kattis.com/problems/esej" target="_blank">Esej</a></td> <td>ints to random strings/chars</td> <td>medium</td></tr>
-        <tr>6<td></td> <td><a href="https://open.kattis.com/problems/dvaput" target="_blank">Dvaput</a></td> <td>-</td> <td>medium-hard</td></tr>
-        <tr>7<td></td> <td><a href="https://open.kattis.com/problems/gmo" target="_blank">GMO</a></td> <td>-</td> <td>medium-hard</td></tr>
-        <tr>8<td></td> <td><a href="https://open.kattis.com/problems/powerstrings" target="_blank">Power Strings</a></td> <td>suffix tries/arrays</td> <td>hard</td></tr>
-        <tr>9<td></td> <td><a href="https://open.kattis.com/problems/burrowswheeler" target="_blank">Burrows-Wheeler Transform</a></td> <td>suffix tries/arrays</td> <td>hard-hard</td></tr>
-        <tr>10<td></td> <td><a href="https://open.kattis.com/problems/substrings" target="_blank">Repeated Substrings</a></td> <td>suffix tries/arrays</td> <td>hard-hard</td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/haypoints" target="_blank">Hay Points</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/spehrling" target="_blank">Sperhling</a></td> <td>simple string manipulation + maths</td> <td>easy-medium</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/toilet" target="_blank">Toilet Seat</a></td> <td>string + permuatations</td> <td>easy-medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/bing" target="_blank">Bing It On</a></td> <td>strings, suffix arrays/tries/strings</td> <td>medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/esej" target="_blank">Esej</a></td> <td>ints to random strings/chars</td> <td>medium</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/dvaput" target="_blank">Dvaput</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/gmo" target="_blank">GMO</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/powerstrings" target="_blank">Power Strings</a></td> <td>suffix tries/arrays</td> <td>hard</td></tr>
+        <tr><td>9</td> <td><a href="https://open.kattis.com/problems/burrowswheeler" target="_blank">Burrows-Wheeler Transform</a></td> <td>suffix tries/arrays</td> <td>hard-hard</td></tr>
+        <tr><td>10</td> <td><a href="https://open.kattis.com/problems/substrings" target="_blank">Repeated Substrings</a></td> <td>suffix tries/arrays</td> <td>hard-hard</td></tr>
     </table>
 </div>
 
