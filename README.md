@@ -231,6 +231,13 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
         <tr><td>1</td> <td><a href="https://open.kattis.com/problems/fruitbaskets" target="_blank">Fruit Baskets</a></td> <td>combinations</td> <td>medium</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/bachetsgame" target="_blank">Bachet's Game</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/gigcombinatorics" target="_blank">Gig Combinatorics</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/interestingintegers" target="_blank">Interesting Integers</a></td> <td>a play on fibonacci</td> <td>medium-hard</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/inversefactorial" target="_blank">Inverse Factorial</a></td> <td>given a factorial, find the integer it came from</td> <td>medium-hard</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/oddaevenb" target="_blank">Odd A's, Even B's</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/orchard" target="_blank">Orchard</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/factovisors" target="_blank">Factovisors</a></td> <td>-</td> <td>hard-hard</td></tr>
     </table>
 </div>
 
