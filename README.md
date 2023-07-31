@@ -211,9 +211,15 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 <div id="mnt" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/ninetynine" target="_blank">Ninety-Nine</a></td> <td>-</td> <td>easy</td></tr>
-        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/goldbach2" target="_blank">Goldbach's Conjecture</a></td> <td>simple maths + elementary data structures</td> <td>easy-medium</td></tr>
-        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/2naire" target="_blank">2naire</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/growlinggears" target="_blank">Grinding Gears</a></td> <td>use derivatives for optimisation</td> <td>easy</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/goldbach2" target="_blank">Goldbach's Conjecture</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/ninetynine" target="_blank">Ninty-Nine</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/2naire" target="_blank">2naire</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/zadaca" target="_blank">Zadaca</a></td> <td>gcd</td> <td>medium</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/positivedivisors" target="_blank">Positive Divisors</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/howmanydigits" target="_blank">How Many Digits</a></td> <td>alt method to take factorial size</td> <td>medium-hard</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/multtable" target="_blank">Multiplication Table</a></td> <td>optimise calculating factors</td> <td>medium-hard</td></tr>
+        <tr><td>9</td> <td><a href="https://open.kattis.com/problems/perfectpowers" target="_blank">Perfect Pth Powers</a></td> <td>largest p such that x is perfect pth power</td> <td>hard</td></tr>
     </table>
 </div>
 
