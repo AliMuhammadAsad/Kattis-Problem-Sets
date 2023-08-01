@@ -90,7 +90,6 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
         <tr><td>8</td> <td><a href="https://open.kattis.com/problems/batmanacci" target="_blank">Batmanacci</a></td> <td>-</td> <td>medium</td></tr>
         <tr><td>9</td> <td><a href="https://open.kattis.com/problems/walls" target="_blank">Lifting Walls</a></td> <td>-</td> <td>medium-hard</td></tr>
         <tr><td>10</td> <td><a href="https://open.kattis.com/problems/fruitbaskets" target="_blank">Fruit Baskets</a></td> <td>-</td> <td>medium-hard</td></tr>
-        <tr><td>11</td> <td><a href="https://open.kattis.com/problems/fractal2" target="_blank">Fractal</a></td> <td>-</td> <td>hard-hard</td></tr>
     </table>
 </div>
 
@@ -180,10 +179,20 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 <div id="cgga" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
-        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/polygonarea" target="_blank">Polygon Area</a></td> <td>shoelace + orientation</td> <td>medium</td></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/jabuke" target="_blank">Jabuke</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/vacuumba" target="_blank">Vacuumba</a></td> <td>-</td> <td>easy</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/glassesfoggymomsspaghetti" target="_blank">Glasses Foggy, Mom's Spaghetti</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/polygonarea" target="_blank">Polygon Area</a></td> <td>shoelace + orientation</td> <td>medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/wrapping" target="_blank">Board Wrapping</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/dartscoring" target="_blank">Dart Scoring</a></td> <td>convex hull</td> <td>medium-hard</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/grazedgrains" target="_blank">Grazed Grains</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/segmentdistance" target="_blank">Line Segment Distance</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>9</td> <td><a href="https://open.kattis.com/problems/segmentintersection" target="_blank">Line Segment Intersection</a></td> <td>-</td> <td>hard</td></tr>
+        <tr><td>10</td> <td><a href="https://open.kattis.com/problems/fractal2" target="_blank">Fractal</a></td> <td>-</td> <td>hard-hard</td></tr>
     </table>
 </div>
 
+<!-- <tr><td></td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr> -->
 
 <div class="collapsible" onclick="toggleTable('strings')">
     <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS12: Strings, String Matching, Suffix Tries/Arrays</span>
@@ -252,7 +261,6 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 </div>
 </div>
 
-<!-- <tr><td></td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr> -->
 
 
 <script>
