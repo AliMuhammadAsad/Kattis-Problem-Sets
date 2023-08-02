@@ -152,6 +152,7 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
     </table>
 </div>
 
+<!-- <tr><td></td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr> -->
 
 <div class="collapsible" onclick="toggleTable('spa')">
     <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS09: Shortest Path Algorithms</span>
@@ -159,6 +160,14 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 <div id="spa" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/millionairemadness" target="_blank">Millionaire Madness</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/shortestpath1" target="_blank">Single Source Shortest Path, Non-Negative Weights</a></td> <td>Dijkstra</td> <td>medium</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/caveexploration2" target="_blank">Cave Exploration</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/escapewallmaria" target="_blank">Escape Wall Maria!</a></td> <td>Sind sei das essen Nien wir sind der Jager!</td> <td>medium-hard</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/forestfruits" target="_blank">Forest Fruits</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/hopscotch50" target="_blank">Hopscotch 50</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/robotturtles" target="_blank">Robot Turtle</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/rockclimbing" target="_blank">Rock Climbing</a></td> <td>-</td> <td>hard</td></tr>
     </table>
 </div>
 
@@ -169,6 +178,13 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 <div id="nfa" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/catering" target="_blank">Catering</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/dna" target="_blank">DNA</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/lopsidedlineup" target="_blank">Lopsided Lineup</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/maxflow" target="_blank">Maximum Flow</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/mincut" target="_blank">Minimum Cut</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/paintball" target="_blank">Paintball</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/elementarymath" target="_blank">Elementary Math</a></td> <td>-</td> <td>hard</td></tr>
     </table>
 </div>
 
@@ -192,7 +208,6 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
     </table>
 </div>
 
-<!-- <tr><td></td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr> -->
 
 <div class="collapsible" onclick="toggleTable('strings')">
     <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS12: Strings, String Matching, Suffix Tries/Arrays</span>
