@@ -51,7 +51,8 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
         <tr><td>3</td> <td><a href="https://open.kattis.com/problems/goldbach2" target="_blank">Goldbach's Conjecture</a></td> <td>vects in c++, lists/tuples</td> <td>easy-medium</td></tr>
         <tr><td>4</td> <td><a href="https://open.kattis.com/problems/goodmorning" target="_blank">Good Morning</a></td> <td>-</td> <td>medium</td></tr>
         <tr><td>5</td> <td><a href="https://open.kattis.com/problems/deduplicatingfiles" target="_blank">Deduplicating Files</a></td> <td>-</td> <td>medium</td></tr>
-        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/guilds" target="_blank">Guilds</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/doctorkattis" target="_blank">Doctor Kattis</a></td> <td>priority queue</td> <td>medium</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/guilds" target="_blank">Guilds</a></td> <td>-</td> <td>medium-hard</td></tr>
     </table>
 </div>
 
@@ -138,9 +139,18 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
 <div id="graphintro" style="display:none">
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
+        <tr><td>1</td> <td><a href="https://open.kattis.com/problems/grid" target="_blank">Grid</a></td> <td>BFS</td> <td>easy-medium</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/railroad2" target="_blank">Railroad</a></td> <td>simple graph properties</td> <td>easy-medium</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/reachableroads" target="_blank">Reachable Roads</a></td> <td>-</td> <td>easy-medium</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/weakvertices" target="_blank">Weak Vertices</a></td> <td>adjacency matrix to graph to triangle operations</td> <td>easy-medium</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/wheresmyinternet" target="_blank">Where's my Internet??</a></td> <td>DFS</td> <td>medium</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/coast" target="_blank">Coast Length</a></td> <td>-</td> <td>medium</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/terraces" target="_blank">Terraces</a></td> <td>BFS, DFS, Flood Fill</td> <td>medium-hard</td></tr>
+        <tr><td>8</td> <td><a href="https://open.kattis.com/problems/promotions" target="_blank">Promotions</a></td> <td>-</td> <td>hard</td></tr>
     </table>
 </div>
 
+<!-- <tr><td></td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr> -->
 
 <div class="collapsible" onclick="toggleTable('graphtree')">
     <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS08: Intermediate Graph Algorithms, Trees</span>
@@ -149,10 +159,15 @@ GitHub.io page [here](https://alimuhammadasad.github.io/Kattis-Problem-Sets/). V
     <table>
         <tr> <th>#</th> <th>Problems</th> <th>Comments</th> <th>Difficulty</th></tr>
         <tr><td>1</td> <td><a href="https://open.kattis.com/problems/heap" target="_blank">Binary Heap</a></td> <td>implement max binary heap</td> <td>easy-medium</td></tr>
+        <tr><td>2</td> <td><a href="https://open.kattis.com/problems/cats" target="_blank">A Feast for Cats</a></td> <td>minimum spanning tree</td> <td>medium-hard</td></tr>
+        <tr><td>3</td> <td><a href="https://open.kattis.com/problems/blockcrusher" target="_blank">Block Crusher</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>4</td> <td><a href="https://open.kattis.com/problems/cheatingbooleantree" target="_blank">Cheating a Boolean Tree</a></td> <td>-</td> <td>medium-hard</td></tr>
+        <tr><td>5</td> <td><a href="https://open.kattis.com/problems/beepers" target="_blank">Collecting Beepers</a></td> <td>hamiltonian path / traveling salesman</td> <td>medium-hard</td></tr>
+        <tr><td>6</td> <td><a href="https://open.kattis.com/problems/cycleseasy" target="_blank">Cycles Easy</a></td> <td>traveling salesman</td> <td>medium-hard</td></tr>
+        <tr><td>7</td> <td><a href="https://open.kattis.com/problems/eulerianpath" target="_blank">Eulerian Path</a></td> <td>-</td> <td>hard</td></tr>
     </table>
 </div>
 
-<!-- <tr><td></td> <td><a href="" target="_blank"></a></td> <td></td> <td></td></tr> -->
 
 <div class="collapsible" onclick="toggleTable('spa')">
     <span class="arrow" style="cursor:pointer; font-size:15px;">&#9658; PS09: Shortest Path Algorithms</span>
